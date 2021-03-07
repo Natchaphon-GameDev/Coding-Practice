@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/pintuwat/.dotnet/store/|arch|/|tfm|",
+      "/Users/pintuwat/.nuget/packages"
+    ]
+  }
+}

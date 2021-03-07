@@ -1,0 +1,15 @@
+/Users/pintuwat/RiderProjects/TEST_pactice/TEST_pactice/bin/Debug/net5.0/TEST_pactice.deps.json
+/Users/pintuwat/RiderProjects/TEST_pactice/TEST_pactice/bin/Debug/net5.0/TEST_pactice.runtimeconfig.json
+/Users/pintuwat/RiderProjects/TEST_pactice/TEST_pactice/bin/Debug/net5.0/TEST_pactice.runtimeconfig.dev.json
+/Users/pintuwat/RiderProjects/TEST_pactice/TEST_pactice/bin/Debug/net5.0/TEST_pactice.dll
+/Users/pintuwat/RiderProjects/TEST_pactice/TEST_pactice/bin/Debug/net5.0/ref/TEST_pactice.dll
+/Users/pintuwat/RiderProjects/TEST_pactice/TEST_pactice/bin/Debug/net5.0/TEST_pactice.pdb
+/Users/pintuwat/RiderProjects/TEST_pactice/TEST_pactice/obj/Debug/net5.0/TEST_pactice.csprojAssemblyReference.cache
+/Users/pintuwat/RiderProjects/TEST_pactice/TEST_pactice/obj/Debug/net5.0/TEST_pactice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pintuwat/RiderProjects/TEST_pactice/TEST_pactice/obj/Debug/net5.0/TEST_pactice.AssemblyInfoInputs.cache
+/Users/pintuwat/RiderProjects/TEST_pactice/TEST_pactice/obj/Debug/net5.0/TEST_pactice.AssemblyInfo.cs
+/Users/pintuwat/RiderProjects/TEST_pactice/TEST_pactice/obj/Debug/net5.0/TEST_pactice.csproj.CoreCompileInputs.cache
+/Users/pintuwat/RiderProjects/TEST_pactice/TEST_pactice/obj/Debug/net5.0/TEST_pactice.dll
+/Users/pintuwat/RiderProjects/TEST_pactice/TEST_pactice/obj/Debug/net5.0/ref/TEST_pactice.dll
+/Users/pintuwat/RiderProjects/TEST_pactice/TEST_pactice/obj/Debug/net5.0/TEST_pactice.pdb
+/Users/pintuwat/RiderProjects/TEST_pactice/TEST_pactice/obj/Debug/net5.0/TEST_pactice.genruntimeconfig.cache
