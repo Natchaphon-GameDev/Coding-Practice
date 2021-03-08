@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using TEST_pactice.Test_ListSystem1;
 
 namespace TEST_pactice
 {
@@ -7,8 +8,8 @@ namespace TEST_pactice
     {
         static void Main(string[] args)
         {
-            TestList.List_DefineAccess();
-            
+           Bottle.Show_OutPut();
+
         }
         
     }

@@ -7,6 +7,10 @@ namespace TEST_pactice
 {
     public class TestList
     {
+        public TestList(string name)
+        {
+        }
+
         public static void ArrayList_Define()
         {
             var arrayList = new ArrayList();
@@ -15,7 +19,8 @@ namespace TEST_pactice
             arrayList.Add("Natchaphon"); // String
             arrayList.Add(5); //int
             arrayList.Add("Sirisangsawang"); //String
-            arrayList.Add(new TestList()); //Obj
+            arrayList.Add(false); //boolean
+            arrayList.Add(new TestArray()); //Object
 
             var secondItem = (int) arrayList[1];
             Console.WriteLine($"Result: {secondItem + 3}");
@@ -49,5 +54,8 @@ namespace TEST_pactice
             
             Console.WriteLine(numbers[0][2]); //First index[] to Access List{1,2,3} amd Second index[] for the data in it 
         }
+        
+       
+        
     }//class
 }//namespace

@@ -179,9 +179,9 @@ namespace TEST_pactice
                     Console.WriteLine($"The first element of Row {i} is {numbers[i,j]}");
                 }
             }
-            for (int i = 0; i < 3; i++)
+            for (var i = 0; i < 3; i++)
             {
-                for (int j = 0; j < 3; j++)
+                for (var j = 0; j < 3; j++)
                 {
                     Console.WriteLine($"number at {i} {j} is [{numbers[j,i]}]"); //just swipe i to j , j to i
                 }
@@ -199,11 +199,11 @@ namespace TEST_pactice
                 {4, 5, 6},
                 {7, 8, 9}
             };
-            int sumOfEachRow = 0;
+            var sumOfEachRow = 0;
 
-            for (int i = 0; i < numbers.GetLength(0); i++)
+            for (var i = 0; i < numbers.GetLength(0); i++)
             {
-                for (int j = 0; j < numbers.GetLength(numbers.Rank - 1); j++)
+                for (var j = 0; j < numbers.GetLength(numbers.Rank - 1); j++)
                 {
                     sumOfEachRow += numbers[i, j];
                 }
@@ -225,9 +225,9 @@ namespace TEST_pactice
             
             var sumOfEachColumn = new[] {0, 0, 0};
 
-            for (int i = 0; i < numbers.GetLength(0); i++)
+            for (var i = 0; i < numbers.GetLength(0); i++)
             {
-                for (int j = 0; j < numbers.GetLength(numbers.Rank - 1); j++)
+                for (var j = 0; j < numbers.GetLength(numbers.Rank - 1); j++)
                 {
                     if (j == 0)
                     {
@@ -244,7 +244,7 @@ namespace TEST_pactice
                 }
             }
 
-            for (int i = 0; i < 3; i++)
+            for (var i = 0; i < 3; i++)
             {
                 Console.WriteLine($"Sum of row {i} is {sumOfEachColumn[i]}");
 
