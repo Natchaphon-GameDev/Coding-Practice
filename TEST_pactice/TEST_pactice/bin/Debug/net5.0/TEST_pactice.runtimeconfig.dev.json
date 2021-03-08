@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\Natchaphon\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Natchaphon\\.nuget\\packages"
+      "/Users/pintuwat/.dotnet/store/|arch|/|tfm|",
+      "/Users/pintuwat/.nuget/packages"
     ]
   }
 }

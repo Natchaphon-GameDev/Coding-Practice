@@ -7,7 +7,7 @@ namespace TEST_pactice
     {
         static void Main(string[] args)
         {
-            TestList.ArrayList_Test();
+            TestList.ArrayList_AddRange_EntireType_();
         }
     }
 }
