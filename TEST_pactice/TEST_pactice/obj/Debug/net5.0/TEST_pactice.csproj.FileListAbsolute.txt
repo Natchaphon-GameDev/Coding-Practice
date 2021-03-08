@@ -13,3 +13,19 @@
 /Users/pintuwat/RiderProjects/TEST_pactice/TEST_pactice/obj/Debug/net5.0/ref/TEST_pactice.dll
 /Users/pintuwat/RiderProjects/TEST_pactice/TEST_pactice/obj/Debug/net5.0/TEST_pactice.pdb
 /Users/pintuwat/RiderProjects/TEST_pactice/TEST_pactice/obj/Debug/net5.0/TEST_pactice.genruntimeconfig.cache
+D:\Code Rider\Coding-Practice\TEST_pactice\TEST_pactice\bin\Debug\net5.0\TEST_pactice.exe
+D:\Code Rider\Coding-Practice\TEST_pactice\TEST_pactice\bin\Debug\net5.0\TEST_pactice.deps.json
+D:\Code Rider\Coding-Practice\TEST_pactice\TEST_pactice\bin\Debug\net5.0\TEST_pactice.runtimeconfig.json
+D:\Code Rider\Coding-Practice\TEST_pactice\TEST_pactice\bin\Debug\net5.0\TEST_pactice.runtimeconfig.dev.json
+D:\Code Rider\Coding-Practice\TEST_pactice\TEST_pactice\bin\Debug\net5.0\TEST_pactice.dll
+D:\Code Rider\Coding-Practice\TEST_pactice\TEST_pactice\bin\Debug\net5.0\ref\TEST_pactice.dll
+D:\Code Rider\Coding-Practice\TEST_pactice\TEST_pactice\bin\Debug\net5.0\TEST_pactice.pdb
+D:\Code Rider\Coding-Practice\TEST_pactice\TEST_pactice\obj\Debug\net5.0\TEST_pactice.csprojAssemblyReference.cache
+D:\Code Rider\Coding-Practice\TEST_pactice\TEST_pactice\obj\Debug\net5.0\TEST_pactice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Rider\Coding-Practice\TEST_pactice\TEST_pactice\obj\Debug\net5.0\TEST_pactice.AssemblyInfoInputs.cache
+D:\Code Rider\Coding-Practice\TEST_pactice\TEST_pactice\obj\Debug\net5.0\TEST_pactice.AssemblyInfo.cs
+D:\Code Rider\Coding-Practice\TEST_pactice\TEST_pactice\obj\Debug\net5.0\TEST_pactice.csproj.CoreCompileInputs.cache
+D:\Code Rider\Coding-Practice\TEST_pactice\TEST_pactice\obj\Debug\net5.0\TEST_pactice.dll
+D:\Code Rider\Coding-Practice\TEST_pactice\TEST_pactice\obj\Debug\net5.0\ref\TEST_pactice.dll
+D:\Code Rider\Coding-Practice\TEST_pactice\TEST_pactice\obj\Debug\net5.0\TEST_pactice.pdb
+D:\Code Rider\Coding-Practice\TEST_pactice\TEST_pactice\obj\Debug\net5.0\TEST_pactice.genruntimeconfig.cache

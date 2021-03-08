@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/pintuwat/RiderProjects/TEST_pactice/TEST_pactice/TEST_pactice.csproj": {}
+    "D:\\Code Rider\\Coding-Practice\\TEST_pactice\\TEST_pactice\\TEST_pactice.csproj": {}
   },
   "projects": {
-    "/Users/pintuwat/RiderProjects/TEST_pactice/TEST_pactice/TEST_pactice.csproj": {
+    "D:\\Code Rider\\Coding-Practice\\TEST_pactice\\TEST_pactice\\TEST_pactice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pintuwat/RiderProjects/TEST_pactice/TEST_pactice/TEST_pactice.csproj",
+        "projectUniqueName": "D:\\Code Rider\\Coding-Practice\\TEST_pactice\\TEST_pactice\\TEST_pactice.csproj",
         "projectName": "TEST_pactice",
-        "projectPath": "/Users/pintuwat/RiderProjects/TEST_pactice/TEST_pactice/TEST_pactice.csproj",
-        "packagesPath": "/Users/pintuwat/.nuget/packages/",
-        "outputPath": "/Users/pintuwat/RiderProjects/TEST_pactice/TEST_pactice/obj/",
+        "projectPath": "D:\\Code Rider\\Coding-Practice\\TEST_pactice\\TEST_pactice\\TEST_pactice.csproj",
+        "packagesPath": "C:\\Users\\Natchaphon\\.nuget\\packages\\",
+        "outputPath": "D:\\Code Rider\\Coding-Practice\\TEST_pactice\\TEST_pactice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/pintuwat/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Natchaphon\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/pintuwat/.dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\Natchaphon\\.dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -7,7 +7,7 @@ namespace TEST_pactice
     {
         static void Main(string[] args)
         {
-            TestArray.Arry2d_Find_SumOfEachColumn();
+            TestList.ArrayList_Test();
         }
     }
 }

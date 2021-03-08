@@ -4,7 +4,7 @@ using System.Globalization;
 
 namespace TEST_pactice
 {
-    public static class TestArray
+    public class TestArray
     {
         public static void Array_Find_Highest_Lowest()
         {
