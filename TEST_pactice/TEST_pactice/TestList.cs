@@ -1,12 +1,13 @@
 ﻿using System;
 using System.Collections;
+using System.Collections.Generic;
 using System.Xml.XPath;
 
 namespace TEST_pactice
 {
     public class TestList
     {
-        public static void ArrayList_Defind()
+        public static void ArrayList_Define()
         {
             var arrayList = new ArrayList();
 
@@ -37,8 +38,16 @@ namespace TEST_pactice
             foreach (var item in arrayList1)
             {
                 Console.WriteLine(item);
-
             }
+        }
+
+        public static void List_DefineAccess()
+        {
+            var numbers = new List<List<int>>();
+            numbers.Add(new List<int> {1,2,3});
+            numbers.Add(new List<int> {4,5,6});
+            
+            Console.WriteLine(numbers[0][2]); //First index[] to Access List{1,2,3} amd Second index[] for the data in it 
         }
     }//class
 }//namespace
