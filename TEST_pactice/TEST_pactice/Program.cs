@@ -8,9 +8,17 @@ namespace TEST_pactice
     {
         static void Main(string[] args)
         {
-           Bottle.Show_OutPut();
+            TestDictionary.Dictionary_Declare();
+
+            
+            
+            
+
+
+
+
+
 
         }
-        
     }
 }

@@ -7,11 +7,7 @@ namespace TEST_pactice
 {
     public class TestList
     {
-        public TestList(string name)
-        {
-        }
-
-        public static void ArrayList_Define()
+        public static void ArrayList_Declare()
         {
             var arrayList = new ArrayList();
 
@@ -46,7 +42,7 @@ namespace TEST_pactice
             }
         }
 
-        public static void List_DefineAccess()
+        public static void List_Declare()
         {
             var numbers = new List<List<int>>();
             numbers.Add(new List<int> {1,2,3});
@@ -54,6 +50,7 @@ namespace TEST_pactice
             
             Console.WriteLine(numbers[0][2]); //First index[] to Access List{1,2,3} amd Second index[] for the data in it 
         }
+        
         
        
         

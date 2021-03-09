@@ -246,6 +246,7 @@ namespace TEST_pactice
 
             for (var i = 0; i < 3; i++)
             {
+
                 Console.WriteLine($"Sum of row {i} is {sumOfEachColumn[i]}");
 
             }
