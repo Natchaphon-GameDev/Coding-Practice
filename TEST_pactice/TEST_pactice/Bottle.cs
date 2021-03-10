@@ -9,7 +9,7 @@ namespace TEST_pactice
         {
             public string Name { get; private set; }
 
-            public Bottle(string name)
+            private Bottle(string name)
             {
                 Name = name;
             }

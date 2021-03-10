@@ -8,17 +8,9 @@ namespace TEST_pactice
     {
         static void Main(string[] args)
         {
-            TestDictionary.Dictionary_Declare();
+            TestMethod_Architect_Arithmetic.TestArray_Teotihuacan_Mexico();
+            TestMethod_Architect_Arithmetic.ChoosePlace();
 
-            
-            
-            
-
-
-
-
-
-
-        }
-    }
-}
+        }//Main Method
+    }//Class
+}//namespace
