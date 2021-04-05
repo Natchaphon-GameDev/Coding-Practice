@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using TEST_pactice.Test_ListSystem1;
 
 namespace TEST_pactice
@@ -8,9 +9,8 @@ namespace TEST_pactice
     {
         static void Main(string[] args)
         {
-            TestMethod_Architect_Arithmetic.TestArray_Teotihuacan_Mexico();
-            TestMethod_Architect_Arithmetic.ChoosePlace();
+           TestMethod_Exquisite_Corpse.BuildACreature("monster","monster","monster");
 
-        }//Main Method
-    }//Class
-}//namespace
+        } //Main Method
+    } //Class
+} //namespace
