@@ -9,7 +9,7 @@ namespace TEST_pactice
     {
         static void Main(string[] args)
         {
-            TestMethod_Exquisite_Corpse.RandomMode();
+            
         } //Main Method
     } //Class
 } //namespace

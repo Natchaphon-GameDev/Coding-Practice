@@ -2,7 +2,7 @@
 
 namespace TEST_pactice
 {
-    public class TestMethod_Architect_Arithmetic
+    public class Practice_Arry_Architect_Arithmetic
     {
         private const int costOfMaterial = 180; // const used to declare a constant value
         public static void TestArray_Teotihuacan_Mexico()

@@ -2,7 +2,7 @@
 
 namespace TEST_pactice
 {
-    public class TestMethod_Exquisite_Corpse
+    public class Practice_Exquisite_Corpse
     {
         private static void GhostHead()
         {
